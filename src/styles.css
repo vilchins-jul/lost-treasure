@@ -1,0 +1,58 @@
+body {
+    background-image: url(./The_financial_crisis_Wallpaper_Money_Oriental_Coins_013975_.jpg);
+}
+
+h1 {
+    font-family: "Montserrat";
+    margin: 0;
+    text-align: center;
+}
+
+#records {
+    background-color: cornflowerblue;
+    padding: 20px;
+}
+
+th {
+    font-family: "Montserrat";
+}
+
+tbody {
+    font-family: "Montserrat";
+}
+
+#records p {
+    font-family: "Montserrat";
+}
+
+#all-info {
+    background-color: cornsilk;
+    padding: 30px 60px;
+    margin-top: 50px;
+    width: 35%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#all-info p, label {
+    font-family: "Montserrat";
+    font-size: 14px;
+}
+
+#adventure-form button {
+    font-family: "Montserrat";
+    background-color: black;
+    color: white;
+    padding: 5px 30px;
+    font-size: 20px;
+}
+
+#story h2 {
+    font-family: "Montserrat";
+    margin-top: 50px;
+    margin-bottom: 0;
+}
+
+#story-content {
+    margin: 0;
+}
